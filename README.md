@@ -1,4 +1,4 @@
-# colorlib
+# Color Library
 
 ## Описание программы
 
